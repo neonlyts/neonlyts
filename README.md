@@ -18,7 +18,7 @@
 
 ## 🧩 Featured Projects
 
-### 🔹 [AI Ticket Triage Assistant] (https://github.com/neonlyts/AI-Ticket-Assistant)
+### 🔹 [AI Ticket Triage Assistant](https://github.com/neonlyts/AI-Ticket-Assistant)
 
 Automates ticket categorisation, prioritisation, and response suggestions.
 
@@ -30,7 +30,7 @@ Automates ticket categorisation, prioritisation, and response suggestions.
 
 ---
 
-### 🔹 [AI Meeting Summariser] (https://github.com/neonlyts/AI-Meeting-Intelligence)
+### 🔹 [AI Meeting Summariser](https://github.com/neonlyts/AI-Meeting-Intelligence)
 
 Converts messy meeting transcripts into structured summaries, action items, and decisions.
 
