@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Neon
 
 💼 IT Solutions Specialist with 15+ years experience
+
 🤖 Building practical AI tools for real-world IT and business workflows
+
 📍 Melbourne, Australia
 
 ---
