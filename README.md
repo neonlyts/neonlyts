@@ -44,7 +44,7 @@ Converts messy meeting transcripts into structured summaries, action items, and 
 
 ### 🔹 [NeonGallery — AI-Built Photography Portfolio](https://github.com/neonlyts/NeonGallery)
 
-A personal experiment in AI-assisted web development — no code written, just prompts.
+A personal experiment in AI-assisted web development — pure vibe coding.
 
 👉 Highlights:
 
