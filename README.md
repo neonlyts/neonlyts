@@ -10,8 +10,8 @@
 
 ## 🚀 What I'm Focused On
 
-* Automating IT support workflows using AI
-* Building real-world, usable tools (not just tutorials)
+* Automating IT workflows using AI
+* Building real-world, usable tools
 * Exploring LLMs in business environments
 
 ---
